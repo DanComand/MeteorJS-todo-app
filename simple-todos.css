@@ -1,4 +1,13 @@
 /* CSS declarations go here */
+
+.center-it-all {
+
+margin: 0 auto;
+
+}
+
+
+
 body {
   font-family: sans-serif;
   background-color: #315481;
